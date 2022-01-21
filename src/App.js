@@ -27,13 +27,6 @@ class App extends Component {
 	};
 
 	render() {
-		const transitionStyles = {
-			entering: { opacity: 1 },
-			entered: { opacity: 1 },
-			exiting: { opacity: 0 },
-			exited: { opacity: 0 },
-		};
-
 		console.log(this.state.showBlock);
 		return (
 			<div className="App">
