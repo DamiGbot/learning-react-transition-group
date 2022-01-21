@@ -1,4 +1,14 @@
-# React Transition Group
+# Learning React Transition Group
+
+React Transition group exposes transition stages, manages classes and group elements and manipulates the DOM in useful ways, making the implementation of actual visual transition much easier.
+
+## Languages and Tools
+
+- React
+- Redux
+- React transition group
+- Javascript
+- Html
 
 ## Installation
 
